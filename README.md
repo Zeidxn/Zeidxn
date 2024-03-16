@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Nicolas Toupin</h1>
-<h3 align="center">A passionate fullstack developer from Nice</h3>
+<h1 align="center">Hi 👋 I'm Nicolas Toupin</h1>
+<h3 align="center">A Computer Science student</h3>
+
+
+I am currently a computer science student at the University of Nice Côte d'Azur
 
 - 🔭 I’m currently working on **an Erp of a gaz station**
 
