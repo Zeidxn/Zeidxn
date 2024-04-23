@@ -4,9 +4,9 @@
 
 I am currently a computer science student at the University of Nice Côte d'Azur
 
-- 🔭 I’m currently working on **an Erp of a gaz station and my portfolio**
+- 🔭 I’m currently working on **my portfolio and a visualtion of projects GIT**
 
-- 🌱 I’m currently learning **TypeScript and React**
+- 🌱 I’m currently learning **TypeScript Vue and React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Zeidxn](https://github.com/Zeidxn)
 
